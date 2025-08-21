@@ -1,0 +1,4 @@
+# não versionar os jars de origem
+jars/
+# artefatos temporários
+*.log
